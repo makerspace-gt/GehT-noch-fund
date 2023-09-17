@@ -132,7 +132,7 @@ Der Makerspace Gütersloh veranstaltet seit März 2019 monatlich ein Repair Caf�
 Mit der Maßnahme »GehT noch« soll die Ausstattung um professionelles Messequipments erweitert werden, um die Analyse von elektronischen Geräten zu ermöglichen. Geplant sind die Anschaffung von einem Gerätetesten, einem Oszilloskop, einer Strommesszange zzgl. weiterer Messleitungen und eines berührungslosen Spannungstesters. Weiterhin ist der Druck von neuen Flyern und Informationsplakaten geplant, um über die Möglichkeiten des Repair Café zu informieren.
 
 ### Durchführungszeitraum (von)
-01.07.2023
+02.10.2023
 
 ### Durchführungszeitraum (bis)
 31.12.2023
