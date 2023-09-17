@@ -151,14 +151,15 @@ Gütersloh
 
 ## Aufstellung der Gesamtausgaben
 
-| Nummer | Art der Leistung                     |   Betrag |
-| :----: | :----------------------------------- | -------: |
+| Nummer | Art der Leistung                |   Betrag |
+| :----: | ------------------------------- | -------: |
 |   1    | [Gerätetester][1]                    | 470,00 € |
-|   2    | [Oszilloskop][2]                     | 300,00 € |
-|   3    | [Strommesszange][3]                  |  80,00 € |
-|   4    | [Messleitungen][4]                   |  20,00 € |
-|   5    | [berührungsloser Spannungstester][5] |  20,00 € |
-|   6    | [Werbematerial][6]                   | 210,00 € |
+|   2    | [Oszilloskop][2]                     | 350,00 € |
+|   3    | [Multimeter mit Strommesszange][3]   |  80,00 € |
+|   4    | [Multimeter mit Oszilloskop][4]      |  85,00 € |
+|   5    | [Messleitungen][5]                   |  20,00 € |
+|   6    | [berührungsloser Spannungstester][6] |  20,00 € |
+|   7    | [Werbematerial][7]                   |  75,00 € |
 
 ## Finanzierungsplan
 
@@ -197,8 +198,9 @@ Nur wenn die Förderung nicht durch eine juristische Person des öffentlichen Re
 
 
 [1]: https://www.amazon.de/Benning-050308-710-Kontrollinstrument-rot/dp/B002ZMFTB6
-[2]: https://www.amazon.de/Rigol-Oszilloscope-kostenlose-Triggerungen-Dekodierungen/dp/B089WHC4MK
+[2]: https://www.ebay.de/sch/i.html?_nkw=DSO-1084E&_sacat=0
 [3]: https://www.amazon.de/UNI-T-Zangenmultimeter-Range-Frequenz-UT216C/dp/B01LZ86T94
-[4]: https://www.amazon.de/Messleitungen-Krokodilklemmen-Bananenstecker-Pr%C3%BCfklemmen-Pr%C3%BCfspitzen/dp/B0768WXDJ5
-[5]: https://www.amazon.de/PeakTech-1030-AC-Spannungspr%C3%BCfer-90-1000/dp/B0064MH362
-[6]: https://www.flyeralarm.com/de/shop/option/index/id/88/quantity/26997963/shipping/1#options
+[4]: https://www.amazon.de/RFElettronica-Multimeter-Oszilloskop-Farbdisplay-Bandbreite/dp/B08KTHWV4K
+[5]: https://www.amazon.de/Messleitungen-Krokodilklemmen-Bananenstecker-Pr%C3%BCfklemmen-Pr%C3%BCfspitzen/dp/B0768WXDJ5
+[6]: https://www.amazon.de/PeakTech-1030-AC-Spannungspr%C3%BCfer-90-1000/dp/B0064MH362
+[7]: https://www.flyeralarm.com/de/shop/option/index/id/88/quantity/26997963/shipping/1#options
