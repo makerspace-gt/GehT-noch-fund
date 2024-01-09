@@ -151,8 +151,8 @@ Gütersloh
 
 ## Aufstellung der Gesamtausgaben
 
-| Nummer | Art der Leistung                |   Betrag |
-| :----: | ------------------------------- | -------: |
+| Nummer | Art der Leistung                     |   Betrag |
+| :----: | ------------------------------------ | -------: |
 |   1    | [Gerätetester][1]                    | 470,00 € |
 |   2    | [Oszilloskop][2]                     | 350,00 € |
 |   3    | [Multimeter mit Strommesszange][3]   |  80,00 € |
@@ -170,7 +170,6 @@ Gütersloh
 | Zuwendungsfähige Gesamtausgaben         | 1.100,00 € |
 | Beantragte Förderung                    | 1.000,00 € |
 | Eigenanteil                             |   100,00 € |
-
 
 ## Die Antragstellerin oder der Antragsteller erklärt, dass
 
