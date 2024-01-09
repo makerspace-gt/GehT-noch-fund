@@ -195,11 +195,41 @@ Datenschutzerklärung
 Nur wenn die Förderung nicht durch eine juristische Person des öffentlichen Rechts beantragt wird:
 - [x] Im Falle einer Förderung stimme ich der Weitergabe und Veröffentlichung meiner Förderdaten (Bezeichnung des Förderprojektes, Vorname und Name der/des Geförderten, Förderhöhe) durch die Bewilligungsbehörde oder die Staatskanzlei zu.
 
+## Sachbericht
+
+## Zahlenmäßiger Nachweis
+
+| Nr. | Leistendes Unternehmen        | Art der Leistung                       |  Zahldatum | Betrag in EUR | Geplant in EUR |
+| :-: | ----------------------------- | -------------------------------------- | ---------: | ------------: | -------------: |
+|  1  | Ewald Abels                   | [BENNING Gerätetester ST 710][1.1]     | 06.11.2023 |      483,60 € |       470,00 € |
+|  2  | karel-h@eBay                  | [voltcraft oszilloskop DSO-1084E][2.1] | 05.10.2023 |      285,00 € |       350,00 € |
+|  3  | PeakTech                      | [Multimeter mit Strommesszange][3.1]   | 18.10.2023 |        0,00 € |        80,00 € |
+|  4  | Amazon                        | [Multimeter mit Oszilloskop][4.1]      | 08.10.2023 |       70,86 € |        85,00 € |
+|  5  | PeakTech                      | [Messleitungen][5.1]                   | 18.10.2023 |        0,00 € |        20,00 € |
+|  6  | PeakTech                      | [berührungsloser Spannungstester][6.1] | 18.10.2023 |        0,00 € |        20,00 € |
+|  7  | FLYERALARM                    | [Werbematerial][7.1]                   | 31.12.2023 |       59,32 € |        75,00 € |
+|  8  | Zeplus Global@Amazon          | [Digital Mikroskop][8]                 | 08.10.2023 |       47,99 € |         0,00 € |
+|  9  | Amazon                        | [AA Akkus][9]                          | 01.11.2023 |       37,26 € |         0,00 € |
+| 10  | TTT-Filmservice@Amazon        | [AAA Akkus][10]                        | 01.11.2023 |        8,83 € |         0,00 € |
+| 11  | SSK Corporation Direct@Amazon | [USB-Sticks][11]                       | 01.11.2023 |       33,48 € |         0,00 € |
+|     |                               | **Summe**                              |            |    1.026,34 € |     1.100,00 € |
+|     |                               | **Offen**                              |            |       73,66 € |         0,00 € |
 
 [1]: https://www.amazon.de/Benning-050308-710-Kontrollinstrument-rot/dp/B002ZMFTB6
+[1.1]: https://www.benning-shop24.de/benning-st-710-050308-geraetetester:626::6500.html?pvar=6501%2C9920
 [2]: https://www.ebay.de/sch/i.html?_nkw=DSO-1084E&_sacat=0
+[2.1]: https://www.ebay.de/itm/186008925439
 [3]: https://www.amazon.de/UNI-T-Zangenmultimeter-Range-Frequenz-UT216C/dp/B01LZ86T94
+[3.1]: https://www.peaktech.de/PeakTech-P-1650-TrueRMS-Stromzange-4.000-Counts-400-A-AC-DC/P-1650
 [4]: https://www.amazon.de/RFElettronica-Multimeter-Oszilloskop-Farbdisplay-Bandbreite/dp/B08KTHWV4K
+[4.1]: https://www.amazon.de/gp/product/B08DHHHMXJ
 [5]: https://www.amazon.de/Messleitungen-Krokodilklemmen-Bananenstecker-Pr%C3%BCfklemmen-Pr%C3%BCfspitzen/dp/B0768WXDJ5
+[5.1]: https://www.peaktech.de/PeakTech-P-8200-Messzubehoer-Set-mit-diversen-Leitungen-Klemmen/P-8200
 [6]: https://www.amazon.de/PeakTech-1030-AC-Spannungspr%C3%BCfer-90-1000/dp/B0064MH362
+[6.1]: https://www.peaktech.de/PeakTech-P-1032-AC-Spannungspruefer-12-1000-V-AC-mit-Vibration/P-1032
 [7]: https://www.flyeralarm.com/de/shop/option/index/id/88/quantity/26997963/shipping/1#options
+[7.1]: https://www.flyeralarm.com/de/shop/option/index/id/88/quantity/22396999/shipping/1
+[8]: https://www.amazon.de/gp/product/B0BBYLSXBP
+[9]: https://www.amazon.de/Varta-Rechargeable-vorgeladen-wiederaufladbar-Memory-Effekt-Gr%C3%BCn-Silber/dp/B007FD5WIU
+[10]: https://www.amazon.de/Varta-Rechargeable-vorgeladener-wiederaufladbar-Memory-Effekt-Silber/dp/B000IGW3JC
+[11]: https://www.amazon.de/SSK-Dual-Laufwerk-Drive-Speicherstick-Kompatibel-Thunderbolt/dp/B093L2PZ99
