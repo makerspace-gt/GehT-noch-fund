@@ -234,15 +234,15 @@ Nur wenn die Förderung nicht durch eine juristische Person des öffentlichen Re
 
 Die Umsetzung des Projekts »GehT noch!« begann mit der Bewilligung am 20. September 2023 und endete nach 16 Wochen am 10. Januar 2024 mit dem Erhalt von 1.000 Flyern (obwohl nur 500 bestellt wurden). Die Bestellungen erfolgten zwischen dem 5. Oktober und dem 31. Dezember. Die Lieferung der Messgeräte und des Werbematerials erfolgte zwischen dem 23. Oktober und dem 10. Januar.
 
-Um eine wirtschaftliche Verwendung der Fördermittel zu gewährleisten, wurden Nachfragen bei den leistenden Unternehmen gestellt. Die Firma PeakTech fand unser Engagement unterstützenswert und spendete uns ein Multimeter, die Messleitungen und den Spannungsprüfer. Dadurch wurden Mittel frei, um die geplanten Ausgaben sinnvoll zu ergänzen. Ein digitales Mikroskop wurde angeschafft, um feine Lötarbeiten durchführen zu können. Außerdem wurden Akkus bestellt, da nicht alle Messgeräte mit Batterien ausgestattet waren. Und es wurden USB-Sticks bestellt, um die Präsentation [Impression | Makerspace GT](https://www.youtube.com/watch?v=ppTO1oIRjuE) während des Repair Cafés auf dem Monitor in der Stadtbibliothek zeigen zu können und ein Medium für eine Datenrettung zu haben.
+Um eine wirtschaftliche Verwendung der Fördermittel zu gewährleisten, wurden Nachfragen bei den leistenden Unternehmen gestellt. Die Firma PeakTech fand unser Engagement unterstützenswert und spendete uns ein Multimeter, die Messleitungen und den Spannungsprüfer. Dadurch wurden Mittel frei, um die geplanten Ausgaben sinnvoll zu ergänzen. Ein digitales Mikroskop wurde angeschafft, um feine Lötarbeiten durchführen zu können. Außerdem wurden Akkus bestellt, da nicht alle Messgeräte mit Batterien ausgestattet waren. Und es wurden USB-Sticks bestellt, um die Präsentation »Impression | Makerspace GT« (https://www.youtube.com/watch?v=ppTO1oIRjuE) während des Repair Cafés auf dem Monitor in der Stadtbibliothek zeigen zu können und ein Medium für eine Datenrettung zu haben.
 
 Das neue Equipment konnte bereits bei den Repair Cafés im November, Dezember, Januar und Februar eingesetzt werden. Insbesondere die Multimeter, Messleitungen und der berührungslose Spannungsprüfer fanden sofort ihren Einsatz. Im Oktober wurde uns der Mangel eines digitalen Mikroskops bewusst, als wir nicht in der Lage waren, eine Mikro-USB-Buchse zu löten.
 
 Für das Jahr 2024 erhoffen wir uns durch die niederschwellige Möglichkeit der Flyer Fördermitglieder für unseren Verein zu gewinnen.
 Außerdem sind interne Repair Cafés und Workshops geplant, um eigene Geräte zu reparieren und den professionellen Umgang mit Messgeräten zu erlernen.
-Nicht zuletzt wollen wir der Stadtbibliothek eine konkrete (Reparatur-)Werkzeugempfehlung geben, damit sie ihre [Bibliothek der Dinge](https://www.stadtbibliothek-guetersloh.de/bibliothek-der-dinge/) erweitern kann und wir weniger eigenes Werkzeug zum Repair Café mitnehmen müssen.
+Nicht zuletzt wollen wir der Stadtbibliothek eine konkrete (Reparatur-)Werkzeugempfehlung geben, damit sie ihre »Bibliothek der Dinge« (https://www.stadtbibliothek-guetersloh.de/bibliothek-der-dinge/) erweitern kann und wir weniger eigenes Werkzeug zum Repair Café mitnehmen müssen.
 
-Die Unterlagen zu dieser Förderung sind auf GitHub (https://github.com/makerspace-gt/GehT-noch-fund) dokumentiert, sodass sich auch andere Initiativen daran orientieren und davon profitieren können.
+Die Unterlagen zu dieser Förderung sind auf »GitHub« (https://github.com/makerspace-gt/GehT-noch-fund) dokumentiert, sodass sich auch andere Initiativen daran orientieren und davon profitieren können.
 
 ## Zahlenmäßiger Nachweis
 
