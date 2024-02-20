@@ -237,7 +237,7 @@ Nur wenn die Förderung nicht durch eine juristische Person des öffentlichen Re
 | Nr. | Leistendes Unternehmen        | Art der Leistung                       |  Zahldatum | Betrag in EUR | Geplant in EUR |
 | :-: | ----------------------------- | -------------------------------------- | ---------: | ------------: | -------------: |
 |  1  | Ewald Abels                   | [BENNING Gerätetester ST 710][1.1]     | 06.11.2023 |      483,60 € |       470,00 € |
-|  2  | karel-h@eBay                  | [voltcraft oszilloskop DSO-1084E][2.1] | 05.10.2023 |      285,00 € |       350,00 € |
+|  2  | karel-h@eBay                  | [voltcraft Oszilloskop DSO-1084E][2.1] | 05.10.2023 |      285,00 € |       350,00 € |
 |  3  | PeakTech                      | [Multimeter mit Strommesszange][3.1]   | 18.10.2023 |        0,00 € |        80,00 € |
 |  4  | Amazon                        | [Multimeter mit Oszilloskop][4.1]      | 08.10.2023 |       70,86 € |        85,00 € |
 |  5  | PeakTech                      | [Messleitungen][5.1]                   | 18.10.2023 |        0,00 € |        20,00 € |
