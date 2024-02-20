@@ -232,6 +232,18 @@ Nur wenn die Förderung nicht durch eine juristische Person des öffentlichen Re
 
 ## Sachbericht
 
+Die Umsetzung des Projekts »GehT noch!« begann mit der Bewilligung am 20. September 2023 und endete nach 16 Wochen am 10. Januar 2024 mit dem Erhalt von 1.000 Flyern (obwohl nur 500 bestellt wurden). Die Bestellungen erfolgten zwischen dem 5. Oktober und dem 31. Dezember. Die Lieferung der Messgeräte und des Werbematerials erfolgte zwischen dem 23. Oktober und dem 10. Januar.
+
+Um eine wirtschaftliche Verwendung der Fördermittel zu gewährleisten, wurden Nachfragen bei den leistenden Unternehmen gestellt. Die Firma PeakTech fand unser Engagement unterstützenswert und spendete uns ein Multimeter, die Messleitungen und den Spannungsprüfer. Dadurch wurden Mittel frei, um die geplanten Ausgaben sinnvoll zu ergänzen. Ein digitales Mikroskop wurde angeschafft, um feine Lötarbeiten durchführen zu können. Außerdem wurden Akkus bestellt, da nicht alle Messgeräte mit Batterien ausgestattet waren. Und es wurden USB-Sticks bestellt, um die Präsentation [Impression | Makerspace GT](https://www.youtube.com/watch?v=ppTO1oIRjuE) während des Repair Cafés auf dem Monitor in der Stadtbibliothek zeigen zu können und ein Medium für eine Datenrettung zu haben.
+
+Das neue Equipment konnte bereits bei den Repair Cafés im November, Dezember, Januar und Februar eingesetzt werden. Insbesondere die Multimeter, Messleitungen und der berührungslose Spannungsprüfer fanden sofort ihren Einsatz. Im Oktober wurde uns der Mangel eines digitalen Mikroskops bewusst, als wir nicht in der Lage waren, eine Mikro-USB-Buchse zu löten.
+
+Für das Jahr 2024 erhoffen wir uns durch die niederschwellige Möglichkeit der Flyer Fördermitglieder für unseren Verein zu gewinnen.
+Außerdem sind interne Repair Cafés und Workshops geplant, um eigene Geräte zu reparieren und den professionellen Umgang mit Messgeräten zu erlernen.
+Nicht zuletzt wollen wir der Stadtbibliothek eine konkrete (Reparatur-)Werkzeugempfehlung geben, damit sie ihre [Bibliothek der Dinge](https://www.stadtbibliothek-guetersloh.de/bibliothek-der-dinge/) erweitern kann und wir weniger eigenes Werkzeug zum Repair Café mitnehmen müssen.
+
+Die Unterlagen zu dieser Förderung sind auf GitHub (https://github.com/makerspace-gt/GehT-noch-fund) dokumentiert, sodass sich auch andere Initiativen daran orientieren und davon profitieren können.
+
 ## Zahlenmäßiger Nachweis
 
 | Nr. | Leistendes Unternehmen        | Art der Leistung                       |  Zahldatum | Betrag in EUR | Geplant in EUR |
@@ -249,6 +261,33 @@ Nur wenn die Förderung nicht durch eine juristische Person des öffentlichen Re
 | 11  | SSK Corporation Direct@Amazon | [USB-Sticks][11]                       | 01.11.2023 |       33,48 € |         0,00 € |
 |     |                               | **Summe**                              |            |    1.026,34 € |     1.100,00 € |
 |     |                               | **Offen**                              |            |       73,66 € |         0,00 € |
+
+## Bestätigungen
+
+Es wird bestätigt, dass...
+
+- [x] die Nebenbestimmungen des Zuwendungsbescheides beachtet worden sind,
+- [x] die Ausgaben notwendig waren, wirtschaftlich und sparsam verfahren worden ist und die Angaben im Verwendungsnachweis mit den Büchern und Belegen übereinstimmen,
+- [x] für die Durchführung der Maßnahme keine weitere Förderung von Dritten gewährt wurde oder noch gewährt wird,
+- [x] es bei der Durchführung zu keiner Überfinanzierung gekommen ist,
+- [x] die Originalbelege für die Dauer von fünf Kalenderjahren nach Vorlage dieses Verwendungsnachweises für Prüfzwecke vorgehalten werden und
+- [x] die Angaben in diesem Nachweis vollständig und richtig sind.
+
+## Dokumentenupload
+
+Es können noch 10 Dokument(e) hochgeladen werden.
+
+| Bezeichnung                                | Name                                                     |                                                   |
+| :----------------------------------------- | :------------------------------------------------------- | ------------------------------------------------- |
+| Gerätetester                               | ad104479e668cb978f0f4da5a68a2781.jpeg                    | ![](images/ad104479e668cb978f0f4da5a68a2781.jpeg) |
+| Oszilloskope                               | a5eb7dcf9bca694f3671232a6cdfa6a7.jpeg                    | ![](images/a5eb7dcf9bca694f3671232a6cdfa6a7.jpeg) |
+| Multimeter, Messleitungen, Spannungsprüfer | b7a698b7a8084e5831f3770665a8bc8f.jpeg                    | ![](images/b7a698b7a8084e5831f3770665a8bc8f.jpeg) |
+| GehT noch! Flyer                           | [GehT noch! Flyer.pdf](images/GehT%20noch!%20Flyer.pdf) |                                                   |
+| Flyer außen                                | 2a0fa70c46f083235228cb1f6a706e80.jpeg                    | ![](images/2a0fa70c46f083235228cb1f6a706e80.jpeg) |
+| Flyer innen                                | 0c65a4834adf3948fef0d16d67222e31.jpeg                    | ![](images/0c65a4834adf3948fef0d16d67222e31.jpeg) |
+| Digital Mikroskop                          | da7b95ef79a3a818955b65d3340631f0.jpeg                    | ![](images/da7b95ef79a3a818955b65d3340631f0.jpeg) |
+| Akkus                                      | daff888d907e62550e79d3251f0ebd78.jpeg                    | ![](images/daff888d907e62550e79d3251f0ebd78.jpeg) |
+| USB-Sticks                                 | ab44a0b85592a58d92d8ad2c91b7b45c.jpeg                    | ![](images/ab44a0b85592a58d92d8ad2c91b7b45c.jpeg) |
 
 [1]: https://www.amazon.de/Benning-050308-710-Kontrollinstrument-rot/dp/B002ZMFTB6
 [1.1]: https://www.benning-shop24.de/benning-st-710-050308-geraetetester:626::6500.html?pvar=6501%2C9920
